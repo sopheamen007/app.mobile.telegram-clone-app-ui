@@ -1,4 +1,9 @@
-# telegrame_clone_ui
+# telegram_clone_ui
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on youtube](https://youtu.be/fJnmr22-Y7A)
+
+![Telegram App UI](https://user-images.githubusercontent.com/16510597/174607709-57f40999-0d68-4245-90be-7d3b99c89ef4.jpeg)
 
 A new Flutter project.
 
