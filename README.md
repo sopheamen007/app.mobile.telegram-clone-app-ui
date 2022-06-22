@@ -1,4 +1,4 @@
-# telegram_clone_ui
+# Telegram App UI
 
 - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
 - [Watch on youtube](https://www.youtube.com/watch?v=erbFu21T3l8)
