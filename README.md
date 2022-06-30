@@ -1,9 +1,9 @@
 # Telegram App UI
 
 - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
-- [Watch on youtube](https://www.youtube.com/watch?v=erbFu21T3l8)
+- [Watch on youtube](https://youtu.be/1cK44kOvOaA)
 
-![Telegram App UI](https://user-images.githubusercontent.com/16510597/174607709-57f40999-0d68-4245-90be-7d3b99c89ef4.jpeg)
+![Twitch App UI](https://user-images.githubusercontent.com/16510597/176718295-c1952ead-d4e9-4ad6-8aa9-592e43d41fb5.jpeg)
 
 A new Flutter project.
 
